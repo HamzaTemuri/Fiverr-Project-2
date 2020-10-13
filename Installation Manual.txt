@@ -1,0 +1,5 @@
+1) go to the following link and install anaconda.
+https://www.anaconda.com/products/individual#Downloads
+2) In search bar type 'JUPYTER NOTEBOOK' or open cmd and type 'JUPYTER NOTEBOOK' in directory where you have all the files.
+3) in jupyter notebook home page select file SLP.ipynb for the code of Single Layer Perceptron or select file KNN.ipynb for K nearestt neighbors.
+ 
